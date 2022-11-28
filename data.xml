@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"  ?>
+<Books xmlns:Urdupoint="http://www.urdupoint.com/urdupoint" xmlns:Netflix="http://www.Netflix.com/Netflix">
+<Urdupoint:book>
+<Author>Abu Yahya</Author>
+<Title>Psychological thriller,lessons of life</Title>
+<Name>Zindagi jab shuru hogi</Name>
+<Price>599</Price>
+</Urdupoint:book>
+        <Netflix:book>
+        <Author>Joe goldberg</Author>
+        <Title>Psychological thriller</Title>
+        <Name>You</Name>
+        <Price>2000</Price>
+        </Netflix:book>
+            <Netflix:book>
+            <Author>brandon z</Author>
+            <Title>Scientific fiction</Title>
+            <Name>Cosmos</Name>
+            <Price>1000</Price>
+            </Netflix:book>
+            <Netflix:book>
+            <Author>Johnathon sheers</Author>
+            <Title>fiction,drama</Title>
+            <Name>Prison break</Name>
+            <Price>1060</Price>
+            </Netflix:book>
+            <Netflix:book>
+            <Author>Professor</Author>
+            <Title>Suspence,drama,fiction</Title>
+            <Name>Money heist</Name>
+            <Price>500</Price>
+            </Netflix:book>
+            <Netflix:book>
+            <Author>Andy dufrain</Author>
+            <Title>Psychological thriller,drama</Title>
+            <Name>Shawshank redemption</Name>
+            <Price>700</Price>
+            </Netflix:book>
+            <Netflix:book>
+            <Author>Jessy pinkman</Author>
+            <Title>Psychological thriller,drama,suspence</Title>
+            <Name>Breaking bad</Name>
+            <Price>900</Price>
+            </Netflix:book>
+            <Netflix:book>
+            <Author>Henry cavil</Author>
+            <Title>Suspence,horror,drama</Title>
+            <Name>Whitcher</Name>
+            <Price>6600</Price>
+            </Netflix:book>
+            <Netflix:book>
+            <Author>Simbi yok</Author>
+            <Title>Suspence,drama</Title>
+            <Name>Squid game</Name>
+            <Price>430</Price>
+            </Netflix:book>
+            <Netflix:book>
+            <Author>Carrol shelby</Author>
+            <Title>Racing,thriller</Title>
+            <Name>Ford vs Ferrari</Name>
+            <Price>1000</Price>
+            </Netflix:book>
+
+
+</Books>
